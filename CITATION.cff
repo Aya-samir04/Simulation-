@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the simulation framework in your work, please cite it as below."
+authors:
+  - family-names: "Abdelwahab"
+    given-names: "Aya S."
+    orcid: "https://orcid.org/0000-0001-5039-3103"
+  - family-names: "Abdrabou"
+    given-names: "Abdelnasser S."
+  - family-names: "Gad"
+    given-names: "Ahmed M."
+  - family-names: "Ibrahim"
+    given-names: "Wafaa I. M."
+title: "Prediction and Fixed-Effects Estimation for Non-Normal Longitudinal Data: A Simulation and Real-Data Comparison of Classical, Machine-Learning, and Hybrid Methods"
+version: 1.0.0
+date-released: 2026-09-19
+url: "https://github.com/Aya-samir04/Simulation-"
+repository-code: "https://github.com/Aya-samir04/Simulation-"
